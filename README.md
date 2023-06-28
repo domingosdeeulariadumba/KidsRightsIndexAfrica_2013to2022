@@ -11,7 +11,7 @@ DATA DICTIONARY
 DOMAINS
 ![AfricaKidsIndex domains](https://github.com/domingosdeeulariadumba/KidsRightsIndexAfrica_2013to2022/assets/110714056/db1e6717-e8f4-48fd-ba86-c3b5fd68a859)
 
-GOALS
+GOAL
 ![AfricaKidsIndex goal](https://github.com/domingosdeeulariadumba/KidsRightsIndexAfrica_2013to2022/assets/110714056/48412f1b-1f64-4325-ad3d-dd4fe19b007f)
 
 APPROACH
